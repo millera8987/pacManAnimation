@@ -1,0 +1,11 @@
+make gh-pages
+change default to gh-pages
+delete master
+create git folder
+git clone and paste git url
+cd to sub directory
+copy and paste in site files
+git add .
+git commit -m "message"
+git push origin gh-pages
+go to settings and get url
